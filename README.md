@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- Avatar -->
-<img src="https://www.pinterest.com/pin/16325617396074585/" width="120" style="border-radius:50%" />
+<img src="https://i.pinimg.com/736x/0c/2f/91/0c2f9134544a6614dc50810dd158c9b7.jpg" width="120" style="border-radius:50%" />
 
 <br><br>
 
