@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- Avatar -->
-<img src="[https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://www.pinterest.com/pin/16325617396074585/)" width="120" style="border-radius:50%" />
+<img src="https://www.pinterest.com/pin/16325617396074585/" width="120" style="border-radius:50%" />
 
 <br><br>
 
