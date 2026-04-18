@@ -7,9 +7,11 @@
 
 <!-- Avatar -->
 <img src="https://i.pinimg.com/736x/0c/2f/91/0c2f9134544a6614dc50810dd158c9b7.jpg" width="250" style="border-radius:50%" />
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
+<!-- Animated icon -->
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45"/>
 
+<br><br>
 <!-- About -->
 <pre>
 💼 Student • Backend Developer • Web Developer  
